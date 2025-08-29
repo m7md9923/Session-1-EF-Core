@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Session 1 EF Core", "Session 1 EF Core\Session 1 EF Core.csproj", "{9D6C3279-FFE5-4F2D-9A8A-C4781406A735}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{93CFAA42-9279-4BCF-A4DB-C28DC273B770}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demoo", "Demoo\Demoo.csproj", "{93CFAA42-9279-4BCF-A4DB-C28DC273B770}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASS", "ASS\ASS.csproj", "{944E9062-6B04-49BD-9465-A8003F5DB7C2}"
 EndProject
